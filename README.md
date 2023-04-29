@@ -10,18 +10,6 @@
 
 <br/>
 
-<div align="left">
-  <a href="https://github.com/AlexandroMarcus">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexandromarcus&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandromarcus&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
-
-
-
-
-
 <div align="left"><br>
  <a href="https://github.com/AlexandroMarcus">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexandromarcus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
