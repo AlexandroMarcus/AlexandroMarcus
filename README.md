@@ -10,12 +10,12 @@
 
 <br/>
 
-<div align="left">
-  <a href="https://github.com/AlexandroMarcus">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexandromarcus&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandromarcus&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
+<div>
+ <a href="https://github.com/AlexandroMarcus">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexandromarcus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexandromarcus&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Alex-java" height="40" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
