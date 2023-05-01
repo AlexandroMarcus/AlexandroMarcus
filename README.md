@@ -10,8 +10,6 @@
 
 <br/>
 
-<hr>
-
 <div align="left">
  <a href="https://github.com/AlexandroMarcus">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexandromarcus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
