@@ -5,7 +5,7 @@
 -->
 
 - 🚀 Desenvolvedor Back-end me tornando Full Stack.
-- 🌱 Estudando Java.
+- 🌱 Estudando Java | Spring.
 - 📫 Contate-me no email: marcusxandroo@gmail.com ou marcusxandroo@hotmail.com.
 
 <br/>
