@@ -26,6 +26,7 @@
  <h4>Back-end</h4> 
  <img align="center" alt="Alex-java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
  <img align="center" alt="Alex-java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+ <img align="center" alt="Alex-java" height="60" width="70" src="https://cdn-icons-png.flaticon.com/128/692/692402.png"/>
  <h4>Banco de dados</h4>
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></img>
 </section><!--competências-->
