@@ -1,9 +1,11 @@
-### < Hellow world />, eu sou o Alexandro Marcus  👋
+<!DOCTYPE html>
+<head>
 
+### < Hellow world />, eu sou o Alexandro Marcus  👋
 <!--
 **AlexandroMarcus/AlexandroMarcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
+--> 
+ 
 <section class="apresentacao">
 - 🚀 Desenvolvedor Back-end me tornando Full Stack.
  <br>
@@ -11,12 +13,9 @@
  <br>
 - 📫 Contate-me no email:  marcusxandroo@hotmail.com ou marcusxandroo@gmail.com.
 <section><!--apresentacao-->
-
 <br/>
-
-<html>
-<head>
 </head>
+
 <body
 <section class="info" align="left">
  <a href="https://github.com/AlexandroMarcus">
@@ -29,12 +28,15 @@
  <hr>
  <h4>Back-end</h4> 
  <img align="center" alt="Alex-java" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
- &nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="50" width="40" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"/>
- &nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+ <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="50" width="40" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"/>
+ <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
  &nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="60" width="70" src="https://cdn-icons-png.flaticon.com/128/692/692402.png"/>
 
  <h4>Banco de dados</h4>
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></img>
+ 
+ <h4>Sistemas operacionais</h4>
+ <img src="https://cdn-icons-png.flaticon.com/512/732/732076.png" width="50" height="50">
 </section><!--competências-->
 
 <section class="redes">
