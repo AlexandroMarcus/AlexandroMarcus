@@ -30,8 +30,8 @@
  <h4>Mais informações</h4>
  <p>Hibernate</p>
  <p>JPA</p>
- <p>Estrutura de dados</p>
  <p>Collections</p>
+ <p>Estrutura de dados</p>
  <h4>Banco de dados</h4>
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></img>
 </section><!--competências-->
