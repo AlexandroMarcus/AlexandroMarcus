@@ -13,10 +13,9 @@
  <br>
 - 📫 Contate-me no email:  marcusxandroo@hotmail.com ou marcusxandroo@gmail.com.
 <section><!--apresentacao-->
-<br/>
 </head>
-
-<body
+<br/>
+<body>
 <section class="info" align="left">
  <a href="https://github.com/AlexandroMarcus">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexandromarcus&show_icons=true&theme=radical"/> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -26,14 +25,20 @@
 <section class="competências"><br>
  <h3>Tecnologias</h3>
  <hr>
- <h4>Back-end</h4> 
+ <h4>Front-End</h4>
+ <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+ <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+ <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+ 
+ <h4>Back-End</h4> 
  <img align="center" alt="Alex-java" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
  <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="50" width="40" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"/>
  <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
- &nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="60" width="70" src="https://cdn-icons-png.flaticon.com/128/692/692402.png"/>
+ &nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="50" width="80" src="https://cdn-icons-png.flaticon.com/128/692/692402.png"/>
 
  <h4>Banco de dados</h4>
- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"></img>
+<img align="center" width="60px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+ <!--<!--O símbolo que está a frente representa um espaço em branco&nbsp;&nbsp;&nbsp; <img align="center" width="60px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />-->
  
  <h4>Sistemas operacionais</h4>
  <img src="https://cdn-icons-png.flaticon.com/512/732/732076.png" width="50" height="50">
