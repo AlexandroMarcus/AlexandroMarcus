@@ -30,6 +30,7 @@
  <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
  <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img  aling="center"  width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" /></i>
  
  <h4>Back-End</h4> 
  <img align="center" alt="Alex-java" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
