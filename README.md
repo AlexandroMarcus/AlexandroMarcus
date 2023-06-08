@@ -11,7 +11,7 @@
  <br>
 - 🌱 Estudando Java | Spring | SQL.
  <br>
-- 📫 Contate-me no email:  marcusxandroo@hotmail.com ou marcusxandroo@gmail.com.
+- 📫 Contate-me:  marcusxandroo@hotmail.com ou marcusxandroo@gmail.com.
 <section><!--apresentacao-->
 </head>
 <br/>
