@@ -1,21 +1,22 @@
 <!DOCTYPE html>
 <head>
-
+ 
 ### < Hellow world />, eu sou o Alexandro Marcus  👋
 <!--
 **AlexandroMarcus/AlexandroMarcus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --> 
- 
-<section class="apresentacao">
-- 🚀 Desenvolvedor Back-end me tornando Full Stack.
- <br>
-- 🌱 Estudando Java | Spring | SQL.
- <br>
-- 📫 Contate-me:  marcusxandroo@hotmail.com | marcusxandroo@gmail.com.
-<section><!--apresentacao-->
 </head>
-<br/>
 <body>
+<thead>
+ <section class="apresentacao">
+ - 🚀 Desenvolvedor Back-end me tornando Full Stack.
+  <br>
+ - 🌱 Estudando Java | Spring | SQL.
+  <br>
+ - 📫 Contate-me:  marcusxandroo@hotmail.com | marcusxandroo@gmail.com.
+<section><!--apresentacao-->
+</thead>
+ <br>
 <section class="info" align="left">
  <a href="https://github.com/AlexandroMarcus">
  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alexandromarcus&show_icons=true&theme=radical"/> <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
