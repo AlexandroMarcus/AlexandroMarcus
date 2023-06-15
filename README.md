@@ -13,6 +13,8 @@
   <br>
  - 🌱 Estudando Java | Spring | SQL.
   <br>
+ - ✍🏼 Consultoria em Java, acesse o discord e entre em contato. 
+ <br>
  - 📫 Contate-me:  marcusxandroo@hotmail.com | marcusxandroo@gmail.com.
 <section><!--apresentacao-->
 </thead>
