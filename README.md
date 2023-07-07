@@ -43,7 +43,7 @@
    &nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="50" width="80" src="https://cdn-icons-png.flaticon.com/128/692/692402.png"/>
   
    <h4>Banco de dados</h4>
-  <img align="center" width="110px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <!--<!--O símbolo que está a frente representa um espaço em branco&nbsp;&nbsp;&nbsp; <img align="center" width="60px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />-->
    
    <h4>Sistemas operacionais</h4>
