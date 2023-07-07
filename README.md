@@ -12,9 +12,7 @@
    <section class="apresentacao">
    - 🚀 Desenvolvedor Back-end me tornando Full Stack.
     <br>
-   - 🌱 Estudando Java | Spring | SQL.
-    <br>
-   - ✍🏼 Consultoria em Java, acesse o discord e entre em contato. 
+   - 🌱 Estudando Java | Spring | SQL. 
    <br>
    - 📫 Contate-me:  marcusxandroo@hotmail.com | marcusxandroo@gmail.com.
   <section><!--apresentacao-->
