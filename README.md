@@ -7,7 +7,6 @@
 --> 
 </head>
 <body>
-<thead>
  <main>
    <section class="apresentacao">
    - 🚀 Desenvolvedor Back-end me tornando Full Stack.
@@ -16,7 +15,6 @@
    <br>
    - 📫 Contate-me:  marcusxandroo@hotmail.com | marcusxandroo@gmail.com.
   <section><!--apresentacao-->
-  </thead>
    <br>
   <section class="info" align="left">
    <a href="https://github.com/AlexandroMarcus">
@@ -28,20 +26,20 @@
    <h3>Tecnologias</h3>
    <hr>
    <h4>Front-End</h4>
-   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="40px" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img  aling="center"  width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" /></i>
+   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="45px" height="45px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img aling="center" width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp; <img  aling="center"  width="45px" height="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" /></i>
    
    <h4>Back-End</h4> 
-   <img align="center" alt="Alex-java" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
-   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="50" width="40" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"/>
-   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
-   &nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="50" width="80" src="https://cdn-icons-png.flaticon.com/128/692/692402.png"/>
+   <img align="center" alt="Alex-java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="59" width="50" src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png"/>
+   <!--O símbolo que está a frente representa um espaço em branco-->&nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="80" width="95" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/>
+   &nbsp;&nbsp;&nbsp;<img align="center" alt="Alex-java" height="59" width="82" src="https://cdn-icons-png.flaticon.com/128/692/692402.png"/>
   
    <h4>Banco de dados</h4>
-  <img align="center" width="80px" height="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" width="90px" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <!--<!--O símbolo que está a frente representa um espaço em branco&nbsp;&nbsp;&nbsp; <img align="center" width="60px" height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />-->
    
    <h4>Sistemas operacionais</h4>
